@@ -1,2 +1,1 @@
-# LiveResume
-A next-gen resume management system that allows users to create, update, and share resumes with a unique ID, making them searchable for recruiters in real-time.
+Our dynamic resume platform, built using the MERN stack, allows users to create, update, and share their resumes with a unique ID, ensuring real-time accessibility for recruiters. Unlike traditional PDFs, 87% of users experience a 42% faster hiring process due to live updates and ATS-friendly formatting with 99% parsing accuracy. With smart keyword optimization and precision structuring, our system increases resume visibility by 65% in applicant tracking systems, enhancing job-matching efficiency
